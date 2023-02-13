@@ -1,0 +1,22 @@
+{
+  "ownerNumber": "6285718828566@s.whatsapp.net",
+  "ownerName": "AraChan",
+  "botName": "XynaBotz",
+  "footer": "Support By XynaBotz",
+  "youtube": "https://youtube.com/@xynabotzreal",
+  "packname": "Created By",
+  "author": "@XynaBotz",
+  "donasi": {
+    "dana": "085718828566",
+    "gopay": "085718828566"
+  },
+  "sessionName": "session",
+  "pathimg": "./media/xynabotz.jpg",
+  "lolkey": "SadTeams",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 35,
+    "user": 15
+  }
+}
